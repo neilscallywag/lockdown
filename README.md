@@ -1,4 +1,5 @@
 # lockdown
+Based on [lockdown.sh](https://github.com/dolegi/lockdown.sh)
 - ✅ Enables SELinux in enforcing mode
 - ✅ Updates and patches system packages
 - ✅ Installs fail2ban, auditd, and enables process accounting
